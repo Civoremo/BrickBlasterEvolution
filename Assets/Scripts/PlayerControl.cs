@@ -12,7 +12,7 @@ public class PlayerControl : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void FixedUpdate () {
+	void LateUpdate () {
 		float moveX = Input.GetAxis ("Horizontal");
 		position.x += moveX * Time.deltaTime * speed;
 		transform.position = position;

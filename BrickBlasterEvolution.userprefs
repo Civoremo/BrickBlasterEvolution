@@ -1,16 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BrickLevelGenerator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BallMovement.cs">
     <Files>
-      <File FileName="Assets\Scripts\BrickMapEditor.cs" Line="9" Column="2" />
-      <File FileName="Assets\Scripts\XmlTestFile.cs" Line="54" Column="6" />
-      <File FileName="Assets\Scripts\BrickLevelGenerator.cs" Line="51" Column="3" />
+      <File FileName="Assets\Scripts\BallMovement.cs" Line="54" Column="41" />
+      <File FileName="Assets\Scripts\BrickMapEditor.cs" Line="195" Column="3" />
+      <File FileName="Assets\Scripts\BallTest.cs" Line="74" Column="3" />
+      <File FileName="Assets\Scripts\Lives.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BrickLevelGenerator.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\PlayerControl.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\BallMovement.cs" Line="25" Column="32" />
-      <File FileName="Assets\Scripts\BrickXml.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\XMLSerializer.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\DeserializeTest.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\SaveMapFileToXML.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -46,10 +46,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\BallMovement.cs" />
+     <Compile Include="Assets\Scripts\BallTest.cs" />
      <Compile Include="Assets\Scripts\BrickLevelGenerator.cs" />
      <Compile Include="Assets\Scripts\BrickMapEditor.cs" />
      <Compile Include="Assets\Scripts\BrickXml.cs" />
      <Compile Include="Assets\Scripts\DeserializeTest.cs" />
+     <Compile Include="Assets\Scripts\Lives.cs" />
      <Compile Include="Assets\Scripts\PlayerControl.cs" />
      <Compile Include="Assets\Scripts\SaveMapFileToXML.cs" />
      <Compile Include="Assets\Scripts\XMLSerializer.cs" />

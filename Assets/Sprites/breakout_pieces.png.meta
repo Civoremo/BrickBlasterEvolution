@@ -1,0 +1,1137 @@
+fileFormatVersion: 2
+guid: dfdfc64eec244c94395fa2b3457eecd9
+timeCreated: 1458769432
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: breakout_pieces_0
+    21300002: breakout_pieces_1
+    21300004: breakout_pieces_2
+    21300006: breakout_pieces_3
+    21300008: breakout_pieces_4
+    21300010: breakout_pieces_5
+    21300012: breakout_pieces_6
+    21300014: breakout_pieces_7
+    21300016: A
+    21300018: B
+    21300020: C
+    21300022: D
+    21300024: E
+    21300026: F
+    21300028: G
+    21300030: H
+    21300032: I
+    21300034: J
+    21300036: K
+    21300038: L
+    21300040: M
+    21300042: N
+    21300044: breakout_pieces_22
+    21300046: breakout_pieces_23
+    21300048: breakout_pieces_24
+    21300050: breakout_pieces_25
+    21300052: breakout_pieces_26
+    21300054: breakout_pieces_27
+    21300056: breakout_pieces_28
+    21300058: breakout_pieces_29
+    21300060: O
+    21300062: Q
+    21300064: R
+    21300066: S
+    21300068: T
+    21300070: U
+    21300072: V
+    21300074: W
+    21300076: X
+    21300078: Y
+    21300080: Z
+    21300082: breakout_pieces_41
+    21300084: breakout_pieces_42
+    21300086: breakout_pieces_43
+    21300088: breakout_pieces_44
+    21300090: breakout_pieces_45
+    21300092: breakout_pieces_46
+    21300094: breakout_pieces_47
+    21300096: breakout_pieces_48
+    21300098: 0
+    21300100: 1
+    21300102: 2
+    21300104: 3
+    21300106: 4
+    21300108: 5
+    21300110: 6
+    21300112: 7
+    21300114: 9
+    21300116: breakout_pieces_58
+    21300118: breakout_pieces_59
+    21300120: breakout_pieces_60
+    21300122: breakout_pieces_61
+    21300124: breakout_pieces_62
+    21300126: breakout_pieces_63
+    21300128: breakout_pieces_64
+    21300130: breakout_pieces_65
+    21300132: breakout_pieces_66
+    21300134: breakout_pieces_67
+    21300136: breakout_pieces_68
+    21300138: breakout_pieces_69
+    21300140: breakout_pieces_70
+    21300142: breakout_pieces_71
+    21300144: breakout_pieces_72
+    21300146: breakout_pieces_73
+    21300148: breakout_pieces_74
+    21300150: breakout_pieces_75
+    21300152: Heart
+    21300154: breakout_pieces_77
+    21300156: breakout_pieces_78
+    21300158: breakout_pieces_79
+    21300160: breakout_pieces_80
+    21300162: breakout_pieces_81
+    21300164: breakout_pieces_82
+    21300166: breakout_pieces_83
+    21300168: breakout_pieces_84
+    21300170: P
+    21300172: 8
+    21300174: dvotacka
+    21300176: uzvicnik
+    21300178: zarez
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: breakout_pieces_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: A
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: B
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: C
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: D
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: E
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: F
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: G
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: H
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 175
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: I
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 175
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: J
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 175
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: K
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 175
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: L
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 175
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: M
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 175
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: N
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 175
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: O
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Q
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: R
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: S
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: T
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: U
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: V
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 157
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: W
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 157
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 157
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Y
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 157
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Z
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 157
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_45
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_47
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 144
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 144
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 144
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 144
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 144
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 144
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 135
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 135
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 116
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_60
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 112
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_61
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 112
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 92
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_64
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 92
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_66
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 72
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 72
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_70
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_71
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_72
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_73
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_74
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_75
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Heart
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_77
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 56
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 29
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_79
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 29
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 29
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 29
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_83
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 5
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: breakout_pieces_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: P
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 135
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dvotacka
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 135
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: uzvicnik
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 135
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zarez
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 135
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
