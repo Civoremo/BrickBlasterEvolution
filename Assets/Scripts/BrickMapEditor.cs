@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
@@ -222,5 +223,10 @@ public class BrickMapEditor : MonoBehaviour {
 			Debug.Log (defaultBricksMap[i].transform.position);
 			Debug.Log (brickListXml[i].brickNumber + " " + brickListXml[i].brickPosX + " " + brickListXml[i].brickPosY);
 		}*/
+	}
+
+	public void ResetApplication()
+	{
+		SceneManager.LoadScene (SceneManager.GetActiveScene ().name);
 	}
 }
