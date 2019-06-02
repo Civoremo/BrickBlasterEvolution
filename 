@@ -1,0 +1,34 @@
+[33mcommit b6f4c254fa39c27623fced45e30c2c85ddd49637[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nedim O <omerovic_n@hotmail.com>
+Date:   Sat Jun 1 22:49:12 2019 -0400
+
+    Create README.md
+
+[33mcommit 92a113065dcd03a9621e7cc7db3419b83ab79b73[m
+Merge: 7966a36 4bb9d8d
+Author: Civoremo <omerovic_n@hotmail.com>
+Date:   Sat Mar 26 20:51:19 2016 -0400
+
+    Merge pull request #1 from Civoremo/changes
+    
+    BrickPrefab and Ball_Collision changes
+
+[33mcommit 4bb9d8d86971533d80aefa8fc74ca97085f21285[m
+Author: Civoremo <omerovic_n@hotmail.com>
+Date:   Sat Mar 26 20:48:19 2016 -0400
+
+    BrickPrefab and Ball_Collision changes
+
+[33mcommit 7966a362cf921466ae556f9936536ffb459cabd5[m
+Author: Civoremo <omerovic_n@hotmail.com>
+Date:   Tue Mar 22 15:07:40 2016 -0400
+
+    BreakOut Clone with Level Editor
+    
+    ProtoType BreakOut Clone with a Level Editor
+
+[33mcommit 7f2e25a00365fda2c085781c7742c9597f7594f0[m
+Author: Civoremo <omerovic_n@hotmail.com>
+Date:   Tue Mar 22 15:05:52 2016 -0400
+
+    :boom::camel: Added .gitattributes & .gitignore files
